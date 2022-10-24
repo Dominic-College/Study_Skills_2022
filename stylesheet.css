@@ -46,14 +46,14 @@ h4 {
 	
 	
 }
-.caylin {
+.Caylin {
 	margin: left;
 	color: white;
 	width: 700px;
 	display: inline-block;
 	
 }
-.schedule {
+.Schedule {
 	margin: right;
 	color: white;
 	width: 700px;
@@ -75,7 +75,7 @@ span:hover {
 	cursor: pointer;
 	
 }
-.checklist {
+.Checklist {
 	margin: right;
 	color: white;
 	width: 700px;
@@ -84,7 +84,7 @@ span:hover {
 	padding-left: 50px;
 	padding-top: 70px;
 }
-.whiteboard {
+.Whiteboard {
 	margin: left;
 	color: white;
 	width: 700px;
@@ -93,7 +93,7 @@ span:hover {
 	padding-left: 50px;
 	padding-top: 90px;
 }
-.ask {
+.Ask-questions-IMG {
 	margin: right;
 	color: white;
 	width: 700px;
@@ -103,7 +103,7 @@ span:hover {
 	padding-top: 70px;
 	
 }
-.revise {
+.Revise {
 	margin: left;
 	color: white;
 	width: 700px;
